@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Strike Face Ceramic Armor Plates — Class 6",
     description: "Certified ceramic armor plates. Withstands B-32 bullets. Only 2.8kg weight.",
-    type: "product",
+    type: "website",
     locale: "en_US",
     siteName: "Strike Face Armor",
     images: [
